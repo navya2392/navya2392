@@ -14,7 +14,7 @@
 
 ### 👋 About
 
-I spent eight years in consulting and strategy (BCG, L.E.K., Starbucks, Dow), building business cases, analyzing markets, and advising clients on growth and pricing decisions. I loved the problem-solving but wanted to build the solutions myself, so I went back for an **M.S. in Computer Science at USC**. Today I pair that business background with hands-on machine learning and software engineering to build products that solve real problems, from computer vision models and full-stack apps to agentic AI workflows.
+I spent eight years in consulting and strategy (BCG, L.E.K., Starbucks, Dow), building business cases, analyzing markets, and advising clients on growth and pricing decisions. I loved the problem-solving but wanted to build the solutions myself, so I went back for an **M.S. in Computer Science at USC**. Today, I pair that business background with hands-on machine learning and software engineering to build products that solve real problems, from computer vision models and full-stack apps to agentic AI workflows.
 
 🎓 M.S. Computer Science, USC &nbsp;·&nbsp; MBA, Kellogg (Northwestern) &nbsp;·&nbsp; B.E. Chemical Engineering, ICT Mumbai
 
