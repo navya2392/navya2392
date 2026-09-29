@@ -14,7 +14,7 @@
 
 ### 👋 About
 
-I spent eight years in consulting and strategy (BCG, L.E.K., Starbucks, Dow), building business cases, analyzing markets, and advising clients on growth and pricing decisions. I loved the problem-solving but wanted to build the solutions myself, so I went back for an **M.S. in Computer Science at USC**. Today, I pair that business background with hands-on machine learning and software engineering to build products that solve real problems, from computer vision models and full-stack apps to agentic AI workflows.
+I spent eight years in consulting and strategy (BCG, L.E.K., Starbucks, Dow), building business cases, analyzing markets, and advising clients on growth and pricing decisions. I loved the problem-solving but wanted to build the solutions myself, so I went back for an **M.S. in Computer Science at USC**. Today I pair that business background with hands-on machine learning and software engineering to build products that solve real problems, from computer vision models and full-stack apps to agentic AI workflows.
 
 🎓 M.S. Computer Science, USC &nbsp;·&nbsp; MBA, Kellogg (Northwestern) &nbsp;·&nbsp; B.E. Chemical Engineering, ICT Mumbai
 
@@ -26,24 +26,21 @@ Two systems (code and data internal to LLNL):
 
 #### Laser-optics defect detection
 
-Finding small, low-contrast defects in NIF near-field laser images (previously manual review), where defects sit near beam edges and labels were incomplete.
+Detecting small, low-contrast defects in near-field laser images from the National Ignition Facility's nuclear fusion experiments (previously manual review).
 
-- **Detector.** Benchmarked five architectures (FCOS, YOLO11, Faster R-CNN, RetinaNet, RT-DETR) and shipped an FCOS + YOLO11 ensemble with cluster voting across six runs for stability, plus a second-stage ResNet verifier (chosen from 12 CNNs) that checks each candidate in companion views.
-- **Honest evaluation.** Center-distance matching instead of IoU, and location-aware 5-fold cross-validation so no physical site appears in both train and test.
-- **Error analysis to fix.** One location drove nearly half of all misses, so Difference-of-Gaussians preprocessing plus a union vote recovered faint edge defects neither ensemble found alone.
+- **Two-stage system.** An FCOS + YOLO11 ensemble (cluster-voted for stability) proposes candidates; a ResNet verifier filters false positives.
 - **Result.** ~0.90 recall, cutting 3-4 hours of manual review per week.
 
-*Tech: Python, PyTorch, Ultralytics YOLO11, FCOS (ResNet50-FPN), ResNet18/34, OpenCV*
+*Tech: Python, PyTorch, YOLO11, FCOS, ResNet, OpenCV*
 
 #### Agentic defect detection for 3D-printed lattices
 
 A 6-agent Python workflow that turns a raw CT scan into a ranked, strut-level defect report.
 
-- **Pipeline.** An orchestrator reruns only the missing or stale stages, then segmentation (Otsu), 3D registration of the design geometry to the scan, and strut-level scoring that assigns a severity tier, labeling a strut Uncertain rather than guessing when a verdict is unreliable.
-- **Interaction.** A chat agent grounded in saved artifacts answers questions and acts on plain-language requests (e.g. adjusting a severity cutoff), rerunning only the affected stages.
-- **Trust.** Explicit artifact handoffs keep every verdict traceable; the review dashboard links four views (triage report, chat, an interactive 3D lattice inspector, and a strut-level evidence view).
+- **Pipeline.** Orchestration, segmentation, 3D registration, and strut-level severity scoring, flagging Uncertain rather than guessing.
+- **Interaction.** A chat agent grounded in saved artifacts answers questions and acts on plain-language requests, rerunning only affected stages.
 
-*Tech: Python, Streamlit, Three.js, Plotly, Matplotlib, NumPy* &nbsp;·&nbsp; 📎 [Slides](#) *(coming soon)*
+*Tech: Python, Streamlit, Three.js, Plotly, NumPy* &nbsp;·&nbsp; 📎 [Slides](#) *(coming soon)*
 
 ---
 
