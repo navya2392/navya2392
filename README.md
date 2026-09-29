@@ -25,7 +25,7 @@ I spent eight years in consulting and strategy (BCG, L.E.K., Starbucks, Dow), bu
 
 *Two ML systems (code and data internal to LLNL).*
 
-**Laser-optics defect detection.** Detecting small, low-contrast defects in near-field laser images from the National Ignition Facility's nuclear fusion experiments (previously manual review): an FCOS + YOLO11 ensemble proposes candidates and a ResNet verifier filters false positives. <br/>`Python` `PyTorch` `YOLO11` `FCOS` `ResNet` `OpenCV`
+**Laser-optics defect detection.** Detecting small, low-contrast defects in near-field laser images from the National Ignition Facility's nuclear fusion experiments (previously manual review): a deep-learning detector ensemble (FCOS + YOLO11) proposes candidates and a ResNet verifier filters false positives, reaching ~0.90 recall and cutting 3-4 hours of review per week. <br/>`Python` `PyTorch` `YOLO11` `FCOS` `ResNet` `OpenCV`
 
 **Agentic defect detection for 3D-printed lattices.** A 6-agent Python workflow that turns a raw CT scan into a ranked, strut-level defect report, with a chat agent grounded in saved artifacts that answers questions and reruns only the affected stages. <br/>`Python` `Streamlit` `Three.js` `Plotly` `NumPy` &nbsp;·&nbsp; 📎 [Slides](#) *(coming soon)*
 
@@ -33,8 +33,8 @@ I spent eight years in consulting and strategy (BCG, L.E.K., Starbucks, Dow), bu
 
 ### 🚀 Projects
 
-- ⚙️ **[Early Fault Detection (TEP)](https://github.com/navya2392/EarlyFaultDetection)** &nbsp;Two-stage detect-and-diagnose pipeline on the 52-variable Tennessee Eastman benchmark; benchmarked 7 models, cut false alarms from 14% to 0% at 95% detection, and reached 99% diagnosis accuracy. &nbsp;📄 **[PROJECT REPORT](https://github.com/navya2392/EarlyFaultDetection/blob/main/CSCI567_FaultDetection_ProjectReport.pdf)**
-- 🌊 **[FathomNet 2026](https://github.com/navya2392/FathomNet2026_ObjectDetection)** &nbsp;14th on the CLEF 2026 leaderboard; underwater object detection across a train/test institutional gap. &nbsp;📊 **[RESULTS](https://github.com/navya2392/FathomNet2026_ObjectDetection/blob/main/notebooks/final_pipeline.ipynb)**
+- ⚙️ **[Early Fault Detection (TEP)](https://github.com/navya2392/EarlyFaultDetection)** &nbsp;Two-stage detect-and-diagnose pipeline on the 52-variable Tennessee Eastman benchmark; benchmarked GNN, CNN, LSTM, and Random Forest, cut false alarms from 14% to 0% at 95% detection, and reached 99% diagnosis accuracy. &nbsp;📄 **[PROJECT REPORT](https://github.com/navya2392/EarlyFaultDetection/blob/main/CSCI567_FaultDetection_ProjectReport.pdf)**
+- 🌊 **[FathomNet 2026](https://github.com/navya2392/FathomNet2026_ObjectDetection)** &nbsp;Underwater object detection (CLEF 2026 Kaggle competition) across a train/test institutional gap, using a YOLOv8x + RT-DETR ensemble with DINOv2 consensus relabeling. &nbsp;📊 **[RESULTS](https://github.com/navya2392/FathomNet2026_ObjectDetection/blob/main/notebooks/final_pipeline.ipynb)**
 - 📚 **[ML Coursework](https://github.com/navya2392/ML-coursework)** &nbsp;CNNs (VGG/ResNet/EfficientNet), SVMs, random forests + XGBoost, ridge/LASSO/boosting, KNN, decision trees, and time-series classification.
 - 🌐 **[Full-Stack Apps](https://github.com/navya2392/Full-Stack-Apps)** &nbsp;End-to-end React/Node and Python/Flask web apps.
 
