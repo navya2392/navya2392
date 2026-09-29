@@ -23,7 +23,7 @@ I spent eight years in consulting and strategy (BCG, L.E.K., Starbucks, Dow), bu
 
 ### 🔬 Lawrence Livermore National Laboratory &nbsp;·&nbsp; ML Intern, NIF
 
-*Two ML systems (code and data internal to LLNL).*
+*Two projects (code and data internal to LLNL).*
 
 **Laser-optics defect detection.** Detecting small, low-contrast defects in near-field laser images from the National Ignition Facility's nuclear fusion experiments (previously manual review): a deep-learning detector ensemble (FCOS + YOLO11) proposes candidates and a ResNet verifier filters false positives, reaching ~0.90 recall and cutting 3-4 hours of review per week. <br/>`Python` `PyTorch` `YOLO11` `FCOS` `ResNet` `OpenCV`
 
@@ -73,9 +73,3 @@ I spent eight years in consulting and strategy (BCG, L.E.K., Starbucks, Dow), bu
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C8?style=flat&logo=alteryx&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navya2392&show_icons=true&hide_border=true" alt="GitHub stats" height="150"/>
-</p>
