@@ -51,7 +51,7 @@ I started my career in sales at Dow, then earned my MBA at Kellogg and moved int
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
-**Machine Learning**<br/>
+**Machine Learning / AI**<br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -70,7 +70,6 @@ I started my career in sales at Dow, then earned my MBA at Kellogg and moved int
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![GNU Make](https://img.shields.io/badge/GNU_Make-A42E2B?style=flat&logo=gnu&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat&logo=gnu&logoColor=white)
-![Systems Programming](https://img.shields.io/badge/Systems_Programming-2C3E50?style=flat)
 ![Concurrency](https://img.shields.io/badge/Concurrency_%26_Threads-2C3E50?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
