@@ -64,6 +64,11 @@ I spent eight years in consulting and strategy (BCG, L.E.K., Starbucks, Dow), bu
 
 **Tools & Platforms**<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%2FUNIX-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![GNU Make](https://img.shields.io/badge/GNU_Make-A42E2B?style=flat&logo=gnu&logoColor=white)
+![Systems Programming](https://img.shields.io/badge/Systems_Programming-2C3E50?style=flat)
+![Concurrency](https://img.shields.io/badge/Concurrency_%26_Threads-2C3E50?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)
