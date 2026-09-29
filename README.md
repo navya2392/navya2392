@@ -33,7 +33,7 @@ I spent eight years in consulting and strategy (BCG, L.E.K., Starbucks, Dow), bu
 
 ### 🚀 Projects
 
-- ⚙️ **[Early Fault Detection (TEP)](https://github.com/navya2392/EarlyFaultDetection)** &nbsp;Two-stage detect-and-diagnose pipeline on the 52-variable Tennessee Eastman benchmark; benchmarked GNN, CNN, LSTM, and Random Forest, cut false alarms from 14% to 0% at 95% detection, and reached 99% diagnosis accuracy. &nbsp;📄 **[PROJECT REPORT](https://github.com/navya2392/EarlyFaultDetection/blob/main/CSCI567_FaultDetection_ProjectReport.pdf)**
+- ⚙️ **[Early Fault Detection (TEP)](https://github.com/navya2392/EarlyFaultDetection)** &nbsp;Two-stage detect-and-diagnose pipeline on the 52-variable Tennessee Eastman data; benchmarked GNN, CNN, LSTM, and Random Forest, cut false alarms from 14% to 0% at 95% detection, and reached 99% diagnosis accuracy. &nbsp;📄 **[PROJECT REPORT](https://github.com/navya2392/EarlyFaultDetection/blob/main/CSCI567_FaultDetection_ProjectReport.pdf)**
 - 🌊 **[FathomNet 2026](https://github.com/navya2392/FathomNet2026_ObjectDetection)** &nbsp;Underwater object detection (CLEF 2026 Kaggle competition) across a train/test institutional gap, using a YOLOv8x + RT-DETR ensemble with DINOv2 consensus relabeling.
 - 📚 **[ML Coursework](https://github.com/navya2392/ML-coursework)** &nbsp;CNNs, SVMs, random forests + XGBoost, ridge/LASSO/boosting, KNN, decision trees, and time-series classification.
 - 🌐 **[Full-Stack Apps](https://github.com/navya2392/Full-Stack-Apps)** &nbsp;End-to-end React/Node and Python/Flask web apps.
