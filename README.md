@@ -18,7 +18,7 @@ I started my career in sales at Dow, then earned my MBA at Kellogg and moved int
 
 🎓 M.S. Computer Science, USC &nbsp;·&nbsp; MBA, Kellogg (Northwestern) &nbsp;·&nbsp; B.E. Chemical Engineering, ICT Mumbai
 
-🌲 Outside work, I'm in Washington with my husband and two dogs 🐕, and you'll find me skiing ⛷️, scuba diving 🦈 (Advanced Open Water certified, 50+ dives), or at the poker table ♠️.
+🌲 Outside work, I'm in Washington with my husband and two dogs 🐕, and you'll find me skiing ⛷️, scuba diving 🦈 (Advanced Open Water certified), or at the poker table ♠️.
 
 ---
 
