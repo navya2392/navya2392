@@ -7,13 +7,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/navya-bhat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:navya2392@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/navya2392/navya2392/blob/main/Navya_Bhat_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-2C3E50?style=flat&logo=readdotcv&logoColor=white" alt="Résumé"/></a>
 </p>
 
 ---
 
 ### 👋 About
 
-I started my career in sales at Dow, then earned my MBA at Kellogg and moved into consulting and strategy at BCG and Starbucks, building business cases, analyzing markets, and advising on growth and pricing decisions. I loved the problem-solving but wanted to build the solutions myself, so I went back for an M.S. in Computer Science at USC. Today I pair that business background with hands-on machine learning and software engineering to build products that solve real problems, from computer vision models to agentic AI workflows. 
+I started my career in sales at Dow, then earned my MBA at Kellogg and moved into consulting and strategy at BCG and Starbucks, building business cases, analyzing markets, and advising on growth and pricing decisions. I loved the problem-solving but wanted to build the solutions myself, so I went back for an M.S. in Computer Science at USC. Today I pair that business background with hands-on machine learning and software engineering to build products that solve real problems, from computer vision models to agentic AI workflows.
 
 🎓 M.S. Computer Science, USC &nbsp;·&nbsp; MBA, Kellogg (Northwestern) &nbsp;·&nbsp; B.E. Chemical Engineering, ICT Mumbai
 
@@ -52,6 +53,7 @@ I started my career in sales at Dow, then earned my MBA at Kellogg and moved int
 
 **Machine Learning**<br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -67,6 +69,7 @@ I started my career in sales at Dow, then earned my MBA at Kellogg and moved int
 ![Linux](https://img.shields.io/badge/Linux%2FUNIX-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![GNU Make](https://img.shields.io/badge/GNU_Make-A42E2B?style=flat&logo=gnu&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat&logo=gnu&logoColor=white)
 ![Systems Programming](https://img.shields.io/badge/Systems_Programming-2C3E50?style=flat)
 ![Concurrency](https://img.shields.io/badge/Concurrency_%26_Threads-2C3E50?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
