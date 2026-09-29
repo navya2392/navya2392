@@ -25,7 +25,7 @@ I started my career in sales at Dow, then earned my MBA at Kellogg and moved int
 
 *Two projects (code and data internal to LLNL).*
 
-**Laser-optics defect detection.** Detecting small, low-contrast defects in near-field laser images from the National Ignition Facility's nuclear fusion experiments (previously manual review): a deep-learning detector ensemble (FCOS + YOLO11) proposes candidates and a ResNet verifier filters false positives, reaching ~0.90 recall and cutting 3-4 hours of review per week. <br/>`Python` `PyTorch` `YOLO11` `FCOS` `ResNet` `OpenCV`
+**Laser images defect detection.** Detecting small, low-contrast defects in near-field laser images from the National Ignition Facility's nuclear fusion experiments (previously manual review): a deep-learning detector ensemble (FCOS + YOLO11) proposes candidates and a ResNet verifier filters false positives, reaching ~0.90 recall and cutting 3-4 hours of review per week. <br/>`Python` `PyTorch` `YOLO11` `FCOS` `ResNet` `OpenCV`
 
 **Agentic defect detection for 3D-printed lattices.** A 6-agent Python workflow that turns a raw CT scan into a ranked, strut-level defect report, with a chat agent grounded in saved artifacts that answers questions and reruns only the affected stages. <br/>`Python` `Streamlit` `Three.js` `Plotly` `NumPy` &nbsp;·&nbsp; 📎 **[Slides](https://github.com/navya2392/navya2392/blob/main/Agentic%20Workflow%20for%20Defect%20Detection.pdf)**
 
