@@ -25,7 +25,7 @@ I spent eight years in consulting and strategy (BCG, L.E.K., Starbucks, Dow), bu
 
 *Two ML systems (code and data internal to LLNL).*
 
-**Laser-optics defect detection.** Detecting small, low-contrast defects in near-field laser images from the National Ignition Facility's nuclear fusion experiments (previously manual review): an FCOS + YOLO11 ensemble proposes candidates and a ResNet verifier filters false positives, reaching ~0.90 recall and cutting 3-4 hours of review per week. <br/>`Python` `PyTorch` `YOLO11` `FCOS` `ResNet` `OpenCV`
+**Laser-optics defect detection.** Detecting small, low-contrast defects in near-field laser images from the National Ignition Facility's nuclear fusion experiments (previously manual review): an FCOS + YOLO11 ensemble proposes candidates and a ResNet verifier filters false positives. <br/>`Python` `PyTorch` `YOLO11` `FCOS` `ResNet` `OpenCV`
 
 **Agentic defect detection for 3D-printed lattices.** A 6-agent Python workflow that turns a raw CT scan into a ranked, strut-level defect report, with a chat agent grounded in saved artifacts that answers questions and reruns only the affected stages. <br/>`Python` `Streamlit` `Three.js` `Plotly` `NumPy` &nbsp;·&nbsp; 📎 [Slides](#) *(coming soon)*
 
