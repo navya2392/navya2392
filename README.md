@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Navya Bhat 👋</h2>
 
 <p align="center">
-  <b>Building technical products with a business lens</b>
+  <b>Building technical products with a user lens</b>
 </p>
 
 <p align="center">
